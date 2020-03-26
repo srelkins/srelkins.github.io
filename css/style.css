@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased !important;
+}
+
+html {
+  scroll-behavior: smooth; /*creates scrolling reaction rahter than jump*/
+  overflow: scroll; /*content wont be clipped*/
+  overflow-x: hidden;
+}
+
+a {
+  text-decoration: none;
+}

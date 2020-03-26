@@ -1,0 +1,14 @@
+@font-face {
+  font-family: literal_bold;
+  src: url(../fonts/LiteralBold.otf);
+}
+
+@font-face {
+  font-family: literal_light;
+  src: url(../fonts/LiteralLight.otf);
+}
+
+@font-face {
+  font-family: literal_regular;
+  src: url(../fonts/LiteralRegular.otf);
+}
